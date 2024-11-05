@@ -1,2 +1,2 @@
-# Tela-Breeze-Remix
-Application Icons Only fork of Tela
+# Tela Breeze Remix
+My lightweight fork of Tela for personal use
